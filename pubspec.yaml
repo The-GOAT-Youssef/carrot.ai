@@ -1,0 +1,36 @@
+name: carrot_ai
+description: "Pure AI code generator with Gemini"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.8.0
+  http: ^1.2.1
+  google_generative_ai: ^0.1.0  
+
+
+  # Core AI
+  flutter_gemini: ^3.0.0
+
+
+  # Minimal State Management
+  provider: ^6.1.2
+  shared_preferences: ^2.5.3
+
+  # Code Display
+  flutter_highlight: ^0.7.0
+  highlight: ^0.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
