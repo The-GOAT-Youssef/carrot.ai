@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master.dia",
+    "emit-module-dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master.swiftdeps"
+  },
+  "/Users/ibrahimatta/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.4/macos/connectivity_plus/Sources/connectivity_plus/ConnectivityPlusPlugin.swift" : {
+    "const-values" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.swiftconstvalues",
+    "dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.d",
+    "diagnostics" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.o",
+    "llvm-bc" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.bc",
+    "object" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.o",
+    "swift-dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin.swiftdeps",
+    "swiftmodule" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityPlusPlugin~partial.swiftmodule"
+  },
+  "/Users/ibrahimatta/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.4/macos/connectivity_plus/Sources/connectivity_plus/ConnectivityProvider.swift" : {
+    "const-values" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.d",
+    "diagnostics" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.o",
+    "llvm-bc" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.bc",
+    "object" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.o",
+    "swift-dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/ConnectivityProvider~partial.swiftmodule"
+  },
+  "/Users/ibrahimatta/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.4/macos/connectivity_plus/Sources/connectivity_plus/PathMonitorConnectivityProvider.swift" : {
+    "const-values" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.d",
+    "diagnostics" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.o",
+    "llvm-bc" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.bc",
+    "object" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.o",
+    "swift-dependencies" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Users/ibrahimatta/Desktop/Youssef/Carrot.ai/carrot_ai/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/arm64/PathMonitorConnectivityProvider~partial.swiftmodule"
+  }
+}
